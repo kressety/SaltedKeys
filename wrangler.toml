@@ -3,9 +3,9 @@ main = "dist/index.mjs"
 compatibility_date = "2022-12-14"
 send_metrics = false
 kv_namespaces = [
-    { binding = "KV_KEYS", id = "6495d9614b5942e68289d4b97a7ea374" }
+    { binding = "KV_KEYS", id = "457a885a763f484885d5f87c9a95a519" }
 ]
-route = "keys.salted.fish/*"
+route = "keys.mealuet.com/*"
 
 [vars]
-USER = "RedL0tus"
+USER = "kressety"
